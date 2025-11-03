@@ -1,0 +1,38 @@
+# API 키 및 민감한 정보
+.env
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 빌드 파일
+build/
+dist/
+*.exe
+*.spec
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 테스트 파일
+*.txt
+test_*.py
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.bak
+
