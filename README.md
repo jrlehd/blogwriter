@@ -15,11 +15,6 @@
 - 🎨 **현대적인 GUI**: CustomTkinter 기반 직관적 인터페이스
 - 📊 **실시간 진행률 표시**: 작업 진행 상황 시각화
 
-## 🎬 데모
-
-![데모 이미지](https://via.placeholder.com/800x500?text=Demo+Screenshot)
-*데모 스크린샷을 추가하세요*
-
 ## 📋 목차
 
 - [설치 방법](#설치-방법)
